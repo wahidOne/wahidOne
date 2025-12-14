@@ -43,16 +43,6 @@
 - Terraform (IaC)
 - Automated Deployment to Cloud Run & Kubernetes
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahidOne&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahidOne&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 📦 Featured Projects
 - 🔹 **Cloud Run Secure Backend**
 - 🔹 **GCP WAF + Geo Restriction**
