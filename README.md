@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=wahidOne&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -47,8 +47,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wahidOne&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahidOne&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -65,10 +65,10 @@ _(Add repo links here for stronger portfolio)_
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/sofhila-wahiddin" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:email@email.com">
+  <a href="mailto:sofilawahiddin@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
